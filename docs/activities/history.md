@@ -23,11 +23,11 @@
 
 **活动照片**：
 
-![活动照片1](/openclaw-guide/activities/2026-03-16/微信图片_20260316160914_114_1979.jpg)
+![活动照片1](./img_0316_1.jpg)
 
-![活动照片2](/openclaw-guide/activities/2026-03-16/微信图片_20260316160927_115_1979.jpg)
+![活动照片2](./img_0316_2.jpg)
 
-![活动照片3](/openclaw-guide/activities/2026-03-16/微信图片_20260316161033_117_1979.jpg)
+![活动照片3](./img_0316_3.jpg)
 
 **回顾文章**：
 （待添加活动总结链接）
@@ -36,11 +36,11 @@
 （待添加 钉钉会议录制链接）
 
 **PPT / 文档下载**：
-- [02. 安装openclaw.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/02._安装openclaw.docx)
-- [03. 配置飞书聊天机器人.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/03._配置飞书聊天机器人.docx)
-- [04. 购买大模型.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/04._购买大模型.docx)
-- [05_-_GLM_Codingplan_配置.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/05_-_GLM_Codingplan_配置.docx)
-- [05_-_Minimax_Coding_Plan_配置.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/05_-_Minimax_Coding_Plan_配置.docx)
+- [02. 安装openclaw.docx](./2026.3.16社团首次活动-openclaw的安装/Openclaw%20Window%20部署/02._安装openclaw.docx)
+- [03. 配置飞书聊天机器人.docx](./2026.3.16社团首次活动-openclaw的安装/Openclaw%20Window%20部署/03._配置飞书聊天机器人.docx)
+- [04. 购买大模型.docx](./2026.3.16社团首次活动-openclaw的安装/Openclaw%20Window%20部署/04._购买大模型.docx)
+- [05_-_GLM_Codingplan_配置.docx](./2026.3.16社团首次活动-openclaw的安装/Openclaw%20Window%20部署/05_-_GLM_Codingplan_配置.docx)
+- [05_-_Minimax_Coding_Plan_配置.docx](./2026.3.16社团首次活动-openclaw的安装/Openclaw%20Window%20部署/05_-_Minimax_Coding_Plan_配置.docx)
 
 ---
 
@@ -59,21 +59,21 @@
 
 **活动照片**：
 
-![陆辉](/openclaw-guide/activities/2026-05-20/陆辉.jpg)
+![陆辉](./img_0520_luhui.jpg)
 
-![梁主任](/openclaw-guide/activities/2026-05-20/梁主任.jpg)
+![梁主任](./img_0520_liang.jpg)
 
-![李玖蓉](/openclaw-guide/activities/2026-05-20/李玖蓉.jpg)
+![李玖蓉](./img_0520_lijurong.jpg)
 
-![社团活动介绍](/openclaw-guide/activities/2026-05-20/社团活动介绍.png)
+![社团活动介绍](./img_0520_intro.png)
 
 **视频回放**：
 （待添加腾讯会议录制链接）
 
 **PPT 下载**：
-- [QClaw安装与使用实战指南-陆辉.pptx](/openclaw-guide/activities/2026-05-20/QClaw安装与使用实战指南-陆辉.pptx)
-- [AI的边界与能力--梁主任.pptx](/openclaw-guide/activities/2026-05-20/20260519-AI的边界与能力--梁主任.pptx)
-- [OpenClaw养虾避坑分享--李玖蓉.pptx](/openclaw-guide/activities/2026-05-20/OpenClaw养虾避坑分享--李玖蓉.pptx)
+- [QClaw安装与使用实战指南-陆辉.pptx](./2026.5.20社团活动-经验分享/QClaw安装与使用实战指南-陆辉.pptx)
+- [AI的边界与能力--梁主任.pptx](./2026.5.20社团活动-经验分享/20260519-AI的边界与能力--梁主任.pptx)
+- [OpenClaw养虾避坑分享--李玖蓉.pptx](./2026.5.20社团活动-经验分享/OpenClaw养虾避坑分享--李玖蓉.pptx)
 
 **优秀作品展示**：
 - 陆辉的"每日提醒龙虾" — [查看配置](#)
