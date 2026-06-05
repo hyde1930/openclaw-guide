@@ -1,0 +1,23 @@
+# 依赖
+node_modules/
+
+# 构建输出
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# 活动素材（不上传）
+2026.3.16社团活动-openclaw的安装/
+2026.5.20社团活动-经验分享/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感文件
+.env
+*.local
