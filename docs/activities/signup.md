@@ -40,8 +40,8 @@
 
 - **微信**：AM_Lab红房子人工智能社团（添加时备注"活动咨询"）
 - **邮箱**：luhui6556@fckyy.org.cn
-- **QQ 群**：123456789（[点击加入](https://jq.qq.com/xxx)）
-- **GitHub**：[AMlab社区](https://github.com/AMlab)（提 Issue 标签选 `activity-inquiry`）
+- **QQ 群**：（待公布群号）
+- **GitHub**：[AMlab社区](https://github.com/hyde1930/openclaw-guide)（提 Issue 标签选 `activity-inquiry`）
 
 ---
 
@@ -56,7 +56,7 @@
 - 📚 **读书会**（比如"《重构》共读"、"设计模式讨论"）
 
 ### 如何提议？
-1. 在 [GitHub 仓库](https://github.com/AMlab) 提 Issue，标签选 `activity-proposal`
+1. 在 [GitHub 仓库](https://github.com/hyde1930/openclaw-guide) 提 Issue，标签选 `activity-proposal`
 2. 或者发邮件到 luhui6556@fckyy.org.cn，标题写【活动提议】XXX
 3. 优秀提议会被纳入下月度活动计划，并在官网公示！
 
