@@ -11,7 +11,7 @@
 **活动简介**：
 - **时间**：2026年3月16日（周六）14:30-17:30
 - **地点**：红房子AMlab 实验室
-- **参下人数**：45 人
+- **参与人数**：45 人
 - **主讲人**：陆辉（社团社长）、微脉工程师
 
 **活动内容**：
@@ -22,7 +22,12 @@
 5. 现场 Q&A
 
 **活动照片**：
-（待添加照片链接或嵌入相册）
+
+![活动照片1](/openclaw-guide/activities/2026-03-16/微信图片_20260316160914_114_1979.jpg)
+
+![活动照片2](/openclaw-guide/activities/2026-03-16/微信图片_20260316160927_115_1979.jpg)
+
+![活动照片3](/openclaw-guide/activities/2026-03-16/微信图片_20260316161033_117_1979.jpg)
 
 **回顾文章**：
 （待添加活动总结链接）
@@ -30,10 +35,12 @@
 **视频回放**：
 （待添加 钉钉会议录制链接）
 
-**PPT 下载**：
-- [OpenClaw 简介](#)（待上传）
-- [安装步骤详解](#)（待上传）
-- [常见问题解答](#)（待上传）
+**PPT / 文档下载**：
+- [02. 安装openclaw.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/02._安装openclaw.docx)
+- [03. 配置飞书聊天机器人.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/03._配置飞书聊天机器人.docx)
+- [04. 购买大模型.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/04._购买大模型.docx)
+- [05_-_GLM_Codingplan_配置.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/05_-_GLM_Codingplan_配置.docx)
+- [05_-_Minimax_Coding_Plan_配置.docx](/openclaw-guide/activities/2026-03-16/Openclaw%20Window%20部署/05_-_Minimax_Coding_Plan_配置.docx)
 
 ---
 
@@ -50,17 +57,23 @@
 2. 梁嬛：AI的边界与能力
 3. 李玖蓉：OpenClaw养虾避坑分享
 
-
 **活动照片**：
-（待添加照片链接或嵌入相册）
+
+![陆辉](/openclaw-guide/activities/2026-05-20/陆辉.jpg)
+
+![梁主任](/openclaw-guide/activities/2026-05-20/梁主任.jpg)
+
+![李玖蓉](/openclaw-guide/activities/2026-05-20/李玖蓉.jpg)
+
+![社团活动介绍](/openclaw-guide/activities/2026-05-20/社团活动介绍.png)
 
 **视频回放**：
 （待添加腾讯会议录制链接）
 
 **PPT 下载**：
-- [如何用 OpenClaw 管理每日任务](#)（待上传）
-- [自定义 Skill 开发入门](#)（待上传）
-- [多 Agent 协作实战](#)（待上传）
+- [QClaw安装与使用实战指南-陆辉.pptx](/openclaw-guide/activities/2026-05-20/QClaw安装与使用实战指南-陆辉.pptx)
+- [AI的边界与能力--梁主任.pptx](/openclaw-guide/activities/2026-05-20/20260519-AI的边界与能力--梁主任.pptx)
+- [OpenClaw养虾避坑分享--李玖蓉.pptx](/openclaw-guide/activities/2026-05-20/OpenClaw养虾避坑分享--李玖蓉.pptx)
 
 **优秀作品展示**：
 - 陆辉的"每日提醒龙虾" — [查看配置](#)
@@ -96,8 +109,8 @@
 
 | 活动名称 | 时间 | 参与人数 | 照片 | 视频 | 回顾文章 | PPT |
 |---------|------|----------|------|------|-----------|-----|
-| 经验分享会：养龙虾实践 | 2026-05-18 | 45 人 | [#](#) | [#](#) | [#](#) | [#](#) |
-| OpenClaw 安装教学 | 2026-03-15 | 30 人 | [#](#) | [#](#) | [#](#) | [#](#) |
+| 经验分享会：养龙虾实践 | 2026-05-20 | 35 人 | [查看](#) | [观看](#) | [阅读](#) | [下载](#) |
+| OpenClaw 安装教学 | 2026-03-16 | 45 人 | [查看](#) | [观看](#) | [阅读](#) | [下载](#) |
 
 ---
 
